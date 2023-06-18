@@ -1,7 +1,7 @@
-### 🤔 Who am i 
+## 🤔 Who am i 
 Hello my name's Max. I’m currently a student of pure mathematics at Thammasat University 👨‍🎓 and student of computer science at Ramkhamhaeng University 👨‍💻
 
-### 👏🏻 Background and Personal Information
+## 👏🏻 Background and Personal Information
 👦 Songwitsuksa 36</br>
 💻 T.U.N. 33 - Sci-Math-Com</br>
 ⌨️ RU. ??(65) - Computer Science</br>
@@ -10,7 +10,7 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 🤼‍♀️ kornorcorsor 9</br>
 🎸 SaMath Band 2022</br>
 
-## 🤹‍♂️ Social media
+### 🤹‍♂️ Social Media
 <div align="center">
   <a href="https://www.instagram.com/pasit_sompranon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pasitha IG" /></a>
   <a href="https://discord.gg/krW7tYS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Pasitha's Discord Server" /></a>
@@ -18,14 +18,14 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
   <a href="https://youtube.com/@pasitha2988"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Pasitha's Youtube" /></a>
 </div>
 
-## 👨‍🔬 Interest Field(In Study Phase)
+### 👨‍🔬 Interest Field(In Study Phase)
 - Fixed point theory
 - Integral Equation
 - Fractional Calculus
 - Distributed Computing
 - Parallel Programming
 
-## 🗃 Tools
+### 🗃 Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -41,6 +41,6 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 </div>
 
 
-## 📫 You can reach me directly by bellow info.
-IG: pasit_sompranon
+## 📫 You can reach me directly
+IG: pasit_sompranon</br>
 E-Mail: pasithacppsom@hotmail.com
