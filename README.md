@@ -9,7 +9,7 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 🎼 SciBand 2022</br>
 🤼‍♀️ kornorcorsor 9</br>
 🎸 SaMath Band 2022</br>
-🎵 RU Band 2023
+🎵 RU Band 66
 
 ### 🤹‍♂️ Social Media
 <div align="center">
