@@ -10,7 +10,7 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 🤼‍♀️ kornorcorsor 9</br>
 🎸 SaMath Band 2022</br>
 🎵 RU Band 66</br>
-🪕 TU Folk Song 20 | Fortissimo
+🪕 TU Folk Song 2023 | Fortissimo
 
 ### 🤹‍♂️ Social Media
 <div align="center">
