@@ -10,8 +10,11 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 🤼‍♀️ kornorcorsor 9</br>
 🎸 SaMath Band -1(2022)</br>
 🎵 RU Band 66</br>
-🪕 TU Folk Song 20 | Second Percussion</br>
-🥁 TU Band 2024
+🥁 TU Folk Song 20 | Second Percussion</br>
+🎻 TU Band 2024
+🪕 AHS Band 2024
+🎹 RSU 2???
+
 
 ### 🤹‍♂️ Social Media
 <div align="center">
