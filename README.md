@@ -13,7 +13,7 @@ Hello my name's Max. I’m currently a student of pure mathematics at Thammasat 
 🥁 TU Folk Song 20 | Second Percussion</br>
 🎻 TU Band 2024</br>
 🪕 AHS Band 2024</br>
-🎹 RSU 2???</br>
+🎹 RSU Music Club 1</br>
 
 
 ### 🤹‍♂️ Social Media
